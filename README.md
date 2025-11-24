@@ -1,16 +1,13 @@
-## Hi there 👋
+### PHP / Symfony Developer
 
-<!--
-**johndodev/johndodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Into backend architecture, still looking for the extra hours to finish my side projects and get rich.
 
-Here are some ideas to get you started:
+**🛠 Small contributions to some popular repositories**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Rector: https://github.com/rectorphp/rector-symfony/pull/882
+- EasyAdminBundle: https://github.com/EasyCorp/EasyAdminBundle/pull/7233
+- Meilisearch:
+    - https://github.com/meilisearch/meilisearch-symfony/pull/385
+    - https://github.com/meilisearch/meilisearch-symfony/pull/351
+- Monolog: https://github.com/Seldaek/monolog/pull/1906
+- symfony-cmf: https://github.com/symfony-cmf/routing-bundle/pull/465
