@@ -1,6 +1,6 @@
 ### PHP / Symfony Developer
 
-Into backend architecture, still looking for the extra hours to finish my side projects and get rich.
+Into backend architecture, still looking for the extra hours to finish my side projects.
 
 **🛠 Small contributions to some popular repositories**
 
