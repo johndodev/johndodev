@@ -11,3 +11,4 @@ Into backend architecture, still looking for the extra hours to finish my side p
     - https://github.com/meilisearch/meilisearch-symfony/pull/351
 - Monolog: https://github.com/Seldaek/monolog/pull/1906
 - symfony-cmf: https://github.com/symfony-cmf/routing-bundle/pull/465
+- symfony-doc : https://github.com/symfony/symfony-docs/issues/20963
